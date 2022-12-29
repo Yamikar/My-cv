@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm yamikar</h1>
+<h1 align="center">Hi 👋, I'm yılmaz</h1>
 <h3 align="center">A passionate Back-End develeoper from Turkey</h3>
-<img align="right" alt="coding" width="400" src"https://media.tenor.com/Zco-fadJri4AAAAd/code-matrix.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamikar&label=Profile%20views&color=0e75b6&style=flat" alt="yamikar" /> </p>
 
-- 🌱 I’m currently learning **Node.**
+- 🌱 I’m currently learning **Net.**
 
 - 💬 Ask me about **node.js , back-end technologies**
 
